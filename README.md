@@ -3,22 +3,6 @@
 
 ---
 
-## 🚀 Table of Contents
-1. [Getting Started](#getting-started)
-2. [Basic Terminology](#basic-terminology)
-3. [Connection & Setup](#connection--setup)
-4. [Basic Commands](#basic-commands)
-5. [CRUD Operations](#crud-operations)
-6. [Advanced Querying](#advanced-querying)
-7. [Update Operations](#update-operations)
-8. [Aggregation Pipeline](#aggregation-pipeline)
-9. [Indexing](#indexing)
-10. [Database Administration](#database-administration)
-11. [Best Practices](#best-practices)
-12. [Common Patterns](#common-patterns)
-
----
-
 ## 🎯 Getting Started
 
 ### Installation Requirements
@@ -60,7 +44,7 @@
 
 ---
 
-## 🔌 Connection & Setup
+##  Connection & Setup
 
 ### Basic Connection Commands
 ```javascript
@@ -442,6 +426,8 @@ db.users.updateMany(
 
 
  [From MongoDB](https://www.mongodb.com/developer/products/mongodb/cheat-sheet/?msockid=12b83ac2fb366d0214fd2f3dfa246cdb)
+
+
  [MongoDB Ultimate Guide](https://blog.webdevsimplified.com/2022-02/mongo-db/)
  
  
